@@ -1,0 +1,6 @@
+URL: https://filelink.axell.co.jp/index.php/s/eMHWZ6gDmYNGcMs
+パスワード: jFnSxAC5
+
+配置しているファイルは次の2つとなります
++ dataset.zip: 公開データセット
++ train_sample.zip: 学習サンプル一式
