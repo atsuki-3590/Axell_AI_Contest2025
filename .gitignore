@@ -1,1 +1,10 @@
-/run_test/dataset/images/*.jpg
+# run_test/datasetディレクトリ以下のすべての.jpegファイルを無視
+run_test/dataset/images/
+run_test/dataset/yolo_dataset/
+
+# すべての階層にある.pklファイルを無視
+**/*.pkl
+**/*.pt
+
+__pycache__/
+.venv
